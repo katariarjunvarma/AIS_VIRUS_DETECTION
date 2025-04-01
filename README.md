@@ -33,7 +33,7 @@ o	If a test point is near a detector, it’s flagged as anomalous (1). Otherwise
 
 o	Accuracy shows how well it works. False positives and negatives show mistakes.
 
-5. Show the Output
+3. Show the Output
 
 •	Console: 
 
@@ -51,7 +51,7 @@ o	Red points: "These detectors catch anomalies."
 
 o	Green and orange points: "Green are normal test data, orange are anomalies. See how detectors catch the orange ones!"
 
-6. Why It Matters
+4. Why It Matters?
 
 •	This AIS can be used for real-time virus detection in networks or systems.
 
@@ -86,4 +86,5 @@ A window will open with a scatter plot:
 •	Green Points: Test points that are truly normal.
 
 •	Orange Points: Test points that are truly anomalous.
+
 The plot visually shows how detectors are placed in areas away from normal (self) points and how test points are distributed.
